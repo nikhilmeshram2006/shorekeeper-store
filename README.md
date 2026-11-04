@@ -5,6 +5,11 @@
 <br>
 A clean and responsive clothing storefront built with HTML, CSS and JavaScript.
 </p>
+<p align="center">
+  <a href="https://nikhilmeshram2006.github.io/shorekeeper-store/">
+    <img src="https://img.shields.io/badge/Visit-Live%20Website-black?style=for-the-badge" alt="Visit Website">
+  </a>
+</p>
 
 ---
 
