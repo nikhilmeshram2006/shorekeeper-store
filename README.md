@@ -1,7 +1,7 @@
 # SHOREKEEPER
 
 <p align="center">
-<strong>A Modern Fashion Shopping Experience\</strong>
+<strong>A Modern Fashion Shopping Experience</strong>
 <br>
 A clean and responsive clothing storefront built with HTML, CSS and JavaScript.
 </p>
@@ -15,7 +15,7 @@ A clean and responsive clothing storefront built with HTML, CSS and JavaScript.
 The project brings together a modern storefront, product browsing, shopping cart functionality and a checkout experience in one interface.
 
 <p align="center">
-<i>Website screenshots coming soon.\</i>
+<i>Website screenshots coming soon.</i>
 </p>
 
 ## Features
