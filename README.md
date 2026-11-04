@@ -1,17 +1,17 @@
 # SHOREKEEPER
 
-\<p align="center">
-&#x20; \<strong>A Modern Fashion Shopping Experience\</strong>
-&#x20; \<br>
-&#x20; A clean and responsive clothing storefront built with HTML, CSS and JavaScript.
-\</p>
+<p align="center">
+<strong>A Modern Fashion Shopping Experience\</strong>
+<br>
+A clean and responsive clothing storefront built with HTML, CSS and JavaScript.
+</p>
 
-\<p align="center">
-&#x20; \<img src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)" alt="HTML5">
-&#x20; \<img src="[https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)" alt="CSS3">
-&#x20; \<img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)" alt="JavaScript">
-&#x20; \<img src="[https://img.shields.io/badge/Status-Development-informational?style=for-the-badge](https://img.shields.io/badge/Status-Development-informational?style=for-the-badge)" alt="Development">
-\</p>
+<p align="center">
+<img src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)" alt="HTML5">
+<img src="[https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)" alt="CSS3">
+<img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)" alt="JavaScript">
+<img src="[https://img.shields.io/badge/Status-Development-informational?style=for-the-badge](https://img.shields.io/badge/Status-Development-informational?style=for-the-badge)" alt="Development">
+</p>
 
 ---
 
@@ -21,9 +21,9 @@
 
 The project brings together a modern storefront, product browsing, shopping cart functionality and a checkout experience in one interface.
 
-\<p align="center">
-&#x20; \<i>Website screenshots coming soon.\</i>
-\</p>
+<p align="center">
+<i>Website screenshots coming soon.\</i>
+</p>
 
 ## Features
 
@@ -63,8 +63,7 @@ Suggestions and improvements are welcome. Feel free to fork this repository and 
 
 This project is intended for learning and personal development. Add a formal license if you plan to permit reuse or redistribution under specific terms.
 ---
-\<p align="center">
-&#x20; \<strong>SHOREKEEPER\</strong>
-&#x20; \<br>
-&#x20; \<sub>Designed for a better shopping experience.\</sub>
-\</p>
+<p align="center"><strong>SHOREKEEPER\</strong>
+<br>
+<sub>Designed for a better shopping experience.\</sub>
+</p>
