@@ -63,7 +63,7 @@ Suggestions and improvements are welcome. Feel free to fork this repository and 
 
 This project is intended for learning and personal development. Add a formal license if you plan to permit reuse or redistribution under specific terms.
 ---
-<p align="center"><strong>SHOREKEEPER\</strong>
+<p align="center"><strong>SHOREKEEPER</strong>
 <br>
-<sub>Designed for a better shopping experience.\</sub>
+<sub>Designed for a better shopping experience.</sub>
 </p>
