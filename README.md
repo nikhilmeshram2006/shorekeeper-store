@@ -48,12 +48,12 @@ The project brings together a modern storefront, product browsing, shopping cart
 
 ## Future Improvements
 
-- [ ] Improve mobile responsiveness.
-- [ ] Add more product categories.
-- [ ] Improve product filtering and sorting.
-- [ ] Add a backend and database.
-- [ ] Integrate a secure payment gateway.
-- [ ] Improve the overall shopping experience.
+-  Improve mobile responsiveness.
+-  Add more product categories.
+-  Improve product filtering and sorting.
+-  Add a backend and database.
+-  Integrate a secure payment gateway.
+-  Improve the overall shopping experience.
 
 ## Contributing
 
